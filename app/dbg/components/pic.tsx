@@ -5,7 +5,7 @@ export default function Pic() {
     <div className="size-[200px] rounded-lg overflow-hidden bg-black/90 mx-auto select-none cursor-pointer">
       <img
         className="w-full h-full"
-        src="https://media.discordapp.net/attachments/1218450764708712450/1218917343447748608/pxArt_4.png?ex=6609683d&is=65f6f33d&hm=e5dc669b653016bd80a611bd3119c33a1b9a2280c8ad944c88b0711f1e1af03b&=&format=webp&quality=lossless&width=121&height=121"
+        src="https://cdn.discordapp.com/attachments/1219205914926645308/1219208576216600576/pxArt_25.png?ex=660a7778&is=65f80278&hm=b96dd5a5b68aa9d4bd663895650b85e13a85e2ea3f6a47975b3c86286fc36584&"
         alt=""
       />
     </div>

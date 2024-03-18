@@ -3,6 +3,7 @@ import { Button } from "./ui/button";
 import { MdOutlineWbSunny } from "react-icons/md";
 import { LuMoon } from "react-icons/lu";
 import { TbSquareRoundedLetterG } from "react-icons/tb";
+import SupportDialog from "./supportDialog";
 
 export default function Hearder() {
   return (
@@ -15,6 +16,7 @@ export default function Hearder() {
         amedle
       </h1>
       <div className="flex items-center">
+        <SupportDialog />
         <Button variant="ghost" size={"icon"}>
           <LuMoon className="w-5 h-5" />
         </Button>

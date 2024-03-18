@@ -28,7 +28,7 @@ export default function SupportDialog() {
                 đó làm cho ngày của bạn tươi sáng hơn, cách tốt nhất bạn có thể
                 ủng hộ chúng tôi là chia sẻ trang web với bạn bè, đăng điểm số
                 hàng ngày của bạn trên reddit, discord hoặc trang web yêu thích
-                của bạn hoặc chia sẻ Guessthe.game với hãng tin tức yêu thích
+                của bạn hoặc chia sẻ Gamedle với hãng tin tức yêu thích
                 của bạn!
               </p>
               <h1 className="font-bold my-2">Ủng hộ 1 ly trà đá</h1>

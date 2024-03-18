@@ -3,23 +3,96 @@ import Link from "next/link";
 
 export default function Home() {
   return (
-    <main className="flex flex-col py-4">
-      <h1 className="font-bold">Chọn chủ đề:</h1>
-      <div className="flex flex-col mt-4 gap-4">
-        <ItemSelect icon="/menu-icon-1.png" title="Tướng Liên Minh Huyền Thoại" />
-        <ItemSelect icon="/menu-icon-1.png" title="Âm nhạc Việt Nam" />
-        <ItemSelect icon="/menu-icon-1.png" title="Tướng Liên Minh Huyền Thoại" />
-      </div>
+    <main className="flex flex-col py-4 gap-6">
+      <ItemMenu
+        title="Liên Minh Huyền Thoại"
+        icon="/menu-icon-1.png"
+        children={[
+          { title: "Đoán ảnh đại diện anh hùng", icon: "😎", link: "gg" },
+          { title: "Đoán trang phục", icon: "🎀", link: "gg" },
+          { title: "Đoán anh hùng bằng câu nói", icon: "🔊", link: "gg" },
+        ]}
+      />
+      <ItemMenu
+        title="Thử tài âm nhạc"
+        icon="/menu-icon-2.png"
+        children={[{ title: "Nghe giai điệu đoán bài hát", icon: "🎹", link: "gg" }]}
+        right
+      />
+         <ItemMenu
+        title="Days Bygone"
+        icon="/Dino.png"
+        children={[
+          { title: "Đoán anh hùng", icon: "🥊", link: "gg" },
+        ]}
+      />
+      <ItemMenu
+        title="Vua trò chơi"
+        icon="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Video-Game-Controller-Icon-D-Edit.svg/1200px-Video-Game-Controller-Icon-D-Edit.svg.png"
+        children={[{ title: "Đoán trò chơi qua hình ảnh", icon: "🎮", link: "gg" }]}
+        right
+      />
     </main>
   );
 }
 
-function ItemSelect(_props:TItemMenu) {
+function ItemMenu(_props: TItemMenu) {
+  if (_props.right) {
+    return (
+      <>
+        <div className="flex flex-col">
+          <div className="flex items-center justify-end border-black gap-4 border-b pb-2 border-dashed">
+            <img
+              src={_props.icon}
+              alt="icon"
+              className="w-6 h-6 group-hover:scale-110 duration-300"
+            />
+            <h1>{_props.title}</h1>
+          </div>
+          <div className="border-r border-dashed border-black flex flex-col items-end mr-10 gap-2 pt-2 relative">
+            {_props.children?.map((item) => (
+              <div
+                key={item.link}
+                className="flex items-center pl-2 cursor-pointer group relative overflow-hidden"
+              >
+                <h1>{item.icon}</h1>
+                <h2 className="text-md ml-2">{item.title}</h2>
+                <span className="absolute bg-sky-500/20 top-0 bottom-0 -z-10 group-hover:right-4 right-[100%] w-full transition-all"></span>
+                <span className="border-t border-dashed w-4 ml-2 border-muted-foreground"></span>
+              </div>
+            ))}
+            <div className="size-[12px] bg-white absolute -bottom-[1px] -right-2"></div>
+          </div>
+        </div>
+      </>
+    );
+  }
   return (
-    <Link href={"/"} className="py-4 flex items-center gap-2 border rounded-lg justify-center cursor-pointer
-     transition-all duration-500 text-sky-600 font-semibold group hover:border-sky-600">
-      <img src={_props.icon} alt="icon" className="w-6 h-6 group-hover:scale-110 duration-300"/>
-      <h1>{_props.title}</h1>
-    </Link>
+    <>
+      <div className="flex flex-col">
+        <div className="flex items-center border-black gap-4 border-b pb-2 border-dashed">
+          <img
+            src={_props.icon}
+            alt="icon"
+            className="w-6 h-6 group-hover:scale-110 duration-300"
+          />
+          <h1>{_props.title}</h1>
+        </div>
+        <div className="border-l border-dashed border-black flex flex-col items-start ml-10 gap-2 pt-2 relative">
+          {_props.children?.map((item) => (
+            <div
+              key={item.link}
+              className="flex items-center cursor-pointer group relative overflow-hidden pr-2"
+            >
+              <span className="border-t border-dashed w-4 mr-2 border-muted-foreground"></span>
+              <h1 className="mr-2">{item.icon}</h1>
+              <h2>{item.title}</h2>
+              <span className="absolute bg-sky-500/20 group-hover:top-0 top-8 bottom-0 -z-10 left-4 w-full transition-all"></span>
+            </div>
+          ))}
+          <div className="size-[12px] bg-white absolute -bottom-[1px] -left-2"></div>
+        </div>
+      </div>
+    </>
   );
 }

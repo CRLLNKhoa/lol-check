@@ -1,0 +1,242 @@
+[
+    {
+        "id": 1,
+        "imgques": "https://media.discordapp.net/attachments/1219205914926645308/1219208508310814751/pxArt_5.png?ex=660a7768&is=65f80268&hm=d53fa9337b6a6c8ba83df2b5e0ca6ca9145cfb16687e866d352c4e290ffbe862&=&format=webp&quality=lossless&width=397&height=343",
+        "imgans": "https://cdn.discordapp.com/attachments/1219205914926645308/1219206009017466890/1.png?ex=660a7514&is=65f80014&hm=6257cdf77700a1a5852109ce9924ce5913684311d67cbe6b7de6b42cea30cdc3&",
+        "textans": "TRISTAN"
+    },
+    {
+        "id": 2,
+        "imgques": "https://media.discordapp.net/attachments/1219205914926645308/1219208451360555068/pxArt.png?ex=660a775a&is=65f8025a&hm=f2242329dd6cbf182c6a63be2f478f6218c7fb1d8cf744d3837022d7df601cca&=&format=webp&quality=lossless&width=489&height=417",
+        "imgans": "https://media.discordapp.net/attachments/1219205914926645308/1219206326014447617/2.png?ex=660a755f&is=65f8005f&hm=f78a57b29a2255bf56bf58866f553d8c1d8dc7f8e6047ce9dd6e7adb8bcc119b&=&format=webp&quality=lossless&width=489&height=417",
+        "textans": "JOB STORMBORN"
+    },
+    {
+        "id": 3,
+        "imgques": "https://media.discordapp.net/attachments/1219205914926645308/1219208452581359656/pxArt_1.png?ex=660a775a&is=65f8025a&hm=cac6cafd444eaa1b9ec43206b4c489d31a4e1a74f6ba8f8beb922e797e698408&=&format=webp&quality=lossless&width=489&height=417",
+        "imgans": "https://media.discordapp.net/attachments/1219205914926645308/1219206326861697084/3.png?ex=660a7560&is=65f80060&hm=627ffec39aab38e9d27d580297f4a30327613209fc5d405cdbac488a843a49ab&=&format=webp&quality=lossless&width=489&height=417",
+        "textans": "GWEN"
+    },
+    {
+        "id": 4,
+        "imgques": "https://media.discordapp.net/attachments/1219205914926645308/1219208452346220584/pxArt_2.png?ex=660a775a&is=65f8025a&hm=a08a9bdd39bf315462d2deeac04dfa4b400f07bd1efc2cb238fe506480897f87&=&format=webp&quality=lossless&width=493&height=417",
+        "imgans": "https://cdn.discordapp.com/attachments/1219205914926645308/1219206326551314482/4.png?ex=660a7560&is=65f80060&hm=b589860258e83b37537670d575a88ea3c35c68582f3f4980678adb6710565244&",
+        "textans": "SAUL"
+    },
+    {
+        "id": 5,
+        "imgques": "https://cdn.discordapp.com/attachments/1219205914926645308/1219208452128112670/pxArt_3.png?ex=660a775a&is=65f8025a&hm=ed17019ec0015ba8a92656bef159131edd9d4338e91059d523d6d53353510558&",
+        "imgans": "https://cdn.discordapp.com/attachments/1219205914926645308/1219206326270427186/5.png?ex=660a755f&is=65f8005f&hm=1f4c6cb6624f4313209b2937df6325d9d17c5eb8b7dbc22331c33349873cadc7&",
+        "textans": "SOULBRINGER HANK"
+    },
+    {
+        "id": 6,
+        "imgques": "https://cdn.discordapp.com/attachments/1219205914926645308/1219208451876716564/pxArt_4.png?ex=660a775a&is=65f8025a&hm=b5b50143b4922de6afbb2aefe7fbe9c9a984b31566a9a0efce88f805b8f9fbd9&",
+        "imgans": "https://cdn.discordapp.com/attachments/1219205914926645308/1219206306205011998/6.png?ex=660a755b&is=65f8005b&hm=aebc490e83b74211c48f1930db1b07cf432f4b2c2c380a4e269cdd50ac8926bc&",
+        "textans": "SIEGFIED"
+    },
+    {
+        "id": 7,
+        "imgques": "https://cdn.discordapp.com/attachments/1219205914926645308/1219208451645771827/pxArt_6.png?ex=660a775a&is=65f8025a&hm=2a49ccfc1f7e24f1b93bb2aed46c8c637eeb202ad3efd60545c82691307c4f3a&",
+        "imgans": "https://cdn.discordapp.com/attachments/1219205914926645308/1219206307496857640/7.png?ex=660a755b&is=65f8005b&hm=a1cd419fbd8936989cace0753acf7702a45df902cadeaa77bec94bc99eb665c6&",
+        "textans": "ARTHUR"
+    },
+    {
+        "id": 8,
+        "imgques": "https://cdn.discordapp.com/attachments/1219205914926645308/1219211910092820552/pxArt_39.png?ex=660a7a93&is=65f80593&hm=d14f647e8d107f5524be9e4415871682a2ebfbf4902716dacba0b15fa693fa4f&",
+        "imgans": "https://cdn.discordapp.com/attachments/1219205914926645308/1219206307274424321/8.png?ex=660a755b&is=65f8005b&hm=b7e4454507ae57da4f36ada66e420800a24ea7d216c08858ffdaed273eb49855&",
+        "textans": "CUSACK"
+    },
+    {
+        "id": 9,
+        "imgques": "https://cdn.discordapp.com/attachments/1219205914926645308/1219208419521859665/pxArt_8.png?ex=660a7753&is=65f80253&hm=8f1cb62cde916fddb838f25bab5c0b6b218c5571916988a8c167cfec261adf9f&",
+        "imgans": "https://cdn.discordapp.com/attachments/1219205914926645308/1219206306997731355/9.png?ex=660a755b&is=65f8005b&hm=49abbd4e17f4978092cc87d9835b7c1a6a5034777ab13ad43e6931cfea7adfee&",
+        "textans": "CHANDLER"
+    },
+    {
+        "id": 10,
+        "imgques": "https://cdn.discordapp.com/attachments/1219205914926645308/1219208421010702356/pxArt_9.png?ex=660a7753&is=65f80253&hm=83f61831d4240235605bcfac8cda78f21dac0b5cc8cd501a57cfb38b66d18eba&",
+        "imgans": "https://cdn.discordapp.com/attachments/1219205914926645308/1219206306737688626/10.png?ex=660a755b&is=65f8005b&hm=49e9d9fef0091bb8f5fa222efa0a805e6c7ea982e3a65f574766695e42a52ba4&",
+        "textans": "GREG"
+    },
+    {
+        "id": 11,
+        "imgques": "https://cdn.discordapp.com/attachments/1219205914926645308/1219208420687872010/pxArt_10.png?ex=660a7753&is=65f80253&hm=98ff4ec08a3727b4b3b7c11cf28dfb5c75249b364eaf3ecf160fc32a507a4de6&",
+        "imgans": "https://cdn.discordapp.com/attachments/1219205914926645308/1219206306485895230/11.png?ex=660a755b&is=65f8005b&hm=7ed11ff24e86bf4e698098597be6ab29012ffcea8f76a4a61f438a29376446f8&",
+        "textans": "PIKE"
+    },
+    {
+        "id": 12,
+        "imgques": "https://cdn.discordapp.com/attachments/1219205914926645308/1219208420369109032/pxArt_11.png?ex=660a7753&is=65f80253&hm=bcbc4b67eab0f046a6e55b2fc810946fd0226131c8ac527089bda721f7780c22&",
+        "imgans": "https://cdn.discordapp.com/attachments/1219205914926645308/1219206281529917450/12.png?ex=660a7555&is=65f80055&hm=055e3a5d5b5976d714ed4597010779bf30328ebf170b84c83b6e9143534edabe&",
+        "textans": "CHERRY BLOSSOM"
+    },
+    {
+        "id": 13,
+        "imgques": "https://cdn.discordapp.com/attachments/1219205914926645308/1219208420087955556/pxArt_12.png?ex=660a7753&is=65f80253&hm=dc63e33863254f8d90100163fce8ed21cac6d1bb2c9d9602197064aaa796cdae&",
+        "imgans": "https://cdn.discordapp.com/attachments/1219205914926645308/1219206282645344266/13.png?ex=660a7555&is=65f80055&hm=63b8de7ea7a4a10af86522e1394b761393bfabcba05364e55fa95f0d96763697&",
+        "textans": "GRIFLET"
+    },
+    {
+        "id": 14,
+        "imgques": "https://cdn.discordapp.com/attachments/1219205914926645308/1219208419794485349/pxArt_13.png?ex=660a7753&is=65f80253&hm=593ff78e5a2160715ce4c2ebb054648f8413d7d2a8d2fd7cc39e5b3f2152527c&",
+        "imgans": "https://cdn.discordapp.com/attachments/1219205914926645308/1219206282423308308/14.png?ex=660a7555&is=65f80055&hm=42df1a85e745218c54804a1dd971a19743103a85ae9343fee4c11265155a8c6d&",
+        "textans": "MAXIMUS"
+    },
+    {
+        "id": 15,
+        "imgques": "https://cdn.discordapp.com/attachments/1219205914926645308/1219208508516597770/pxArt_7.png?ex=660a7768&is=65f80268&hm=deac6fb0fb99e2b4615921cb41f85450b56900922b4b6184893625ebf5250f9a&",
+        "imgans": "https://cdn.discordapp.com/attachments/1219205914926645308/1219206282175840306/15.png?ex=660a7555&is=65f80055&hm=41ae9794c03485f5c0fc4b51982aa31135c6ed255a626aabaa33a3b3d88e3b72&",
+        "textans": "GARP"
+    },
+    {
+        "id": 16,
+        "imgques": "https://cdn.discordapp.com/attachments/1219205914926645308/1219208508721860709/pxArt_14.png?ex=660a7768&is=65f80268&hm=7f4b12e66407161f8fb83359184ebc27c2b53c5d17804e3f8ba27ee757204a34&",
+        "imgans": "https://cdn.discordapp.com/attachments/1219205914926645308/1219206281957478440/16.png?ex=660a7555&is=65f80055&hm=6cbe08b04b6dca8703f44b1c6e87ee2e7d9c65603230b9e748e4c4d5108d4604&",
+        "textans": "ELAINE"
+    },
+    {
+        "id": 17,
+        "imgques": "https://cdn.discordapp.com/attachments/1219205914926645308/1219208508927377438/pxArt_15.png?ex=660a7768&is=65f80268&hm=091858f73bb3b51cb0a4d9e0585d4dd0238bd669e6c21c3d26fcab95dcb3d80e&",
+        "imgans": "https://cdn.discordapp.com/attachments/1219205914926645308/1219206281739636777/17.png?ex=660a7555&is=65f80055&hm=e00d6a922923471d9ccdb36e0041455954c27215ff68c1a2714c5d0a8cbb32da&",
+        "textans": "ELEANOR"
+    },
+    {
+        "id": 18,
+        "imgques": "https://cdn.discordapp.com/attachments/1219205914926645308/1219208508051030096/pxArt_16.png?ex=660a7768&is=65f80268&hm=d530dec5a1f19cd99adb669644e13713d67933d048cbfbe0e63cdfe59ddbefa7&",
+        "imgans": "https://cdn.discordapp.com/attachments/1219205914926645308/1219206221509300264/18.png?ex=660a7546&is=65f80046&hm=b11b2934aaa6f1f714c0054ebc36c6a29a54e7cf3b4a1a83bad58e8b6721c283&",
+        "textans": "ZARE"
+    },
+    {
+        "id": 19,
+        "imgques": "https://cdn.discordapp.com/attachments/1219205914926645308/1219208532478529606/pxArt_17.png?ex=660a776d&is=65f8026d&hm=8ffbf7a1328ebb1af0e96fe9cf7343338b530440e1131e7df4c768703b97b718&",
+        "imgans": "https://cdn.discordapp.com/attachments/1219205914926645308/1219206223354794024/19.png?ex=660a7547&is=65f80047&hm=9dab88ba905032dd6fc61d1303142576ecca18fdf3bf079c6c26d308aafe3277&",
+        "textans": "ESTHER"
+    },
+    {
+        "id": 20,
+        "imgques": "https://cdn.discordapp.com/attachments/1219205914926645308/1219208532700696656/pxArt_18.png?ex=660a776d&is=65f8026d&hm=94e5ca7e90eb4e5aa266818b05112be3e09cd64d57c8ab034444cce315513cf3&",
+        "imgans": "https://cdn.discordapp.com/attachments/1219205914926645308/1219206223061061702/20.png?ex=660a7547&is=65f80047&hm=80c925aad75ecf56c0ab6c81202128f3241127e7b55c34bc040b283fc411478e&",
+        "textans": "ORSTED"
+    },
+    {
+        "id": 21,
+        "imgques": "https://cdn.discordapp.com/attachments/1219205914926645308/1219208532910542888/pxArt_19.png?ex=660a776e&is=65f8026e&hm=ee20745ad585d25a9ffa51f706f58c4ec9389543d750da0fc5a2755c066b0ee5&",
+        "imgans": "https://cdn.discordapp.com/attachments/1219205914926645308/1219206222700482600/21.png?ex=660a7547&is=65f80047&hm=e82fe41f00add9e28a1d44d275de33fcb9fa4279b12b24399c3e4b16e6db0fdc&",
+        "textans": "DARK MERLIN"
+    },
+    {
+        "id": 22,
+        "imgques": "https://cdn.discordapp.com/attachments/1219205914926645308/1219208533220790332/pxArt_20.png?ex=660a776e&is=65f8026e&hm=a1d5a367ab7433a16fbe52583d0e6514a768c53be8a936eef8df85ccbd86058f&",
+        "imgans": "https://cdn.discordapp.com/attachments/1219205914926645308/1219206222369001552/22.png?ex=660a7547&is=65f80047&hm=8cee9fa944657311bebb4e0a27cc9a398897a57e24d8b611b83aaa286ae03c87&",
+        "textans": "LUNA"
+    },
+    {
+        "id": 23,
+        "imgques": "https://cdn.discordapp.com/attachments/1219205914926645308/1219208533455802448/pxArt_21.png?ex=660a776e&is=65f8026e&hm=500e94a423c3a78d905987193bcceb57b30714c87dcf7a18c90157e0b89fc9bf&",
+        "imgans": "https://cdn.discordapp.com/attachments/1219205914926645308/1219206221832126555/23.png?ex=660a7547&is=65f80047&hm=a9877f2840f56d048dbeee06c34d5ec95ad615c5ebd1ab00aceda726afdf8431&",
+        "textans": "LILIBETH"
+    },
+    {
+        "id": 24,
+        "imgques": "https://cdn.discordapp.com/attachments/1219205914926645308/1219208532268683355/pxArt_22.png?ex=660a776d&is=65f8026d&hm=219affa26234e1e0e49dbab73c04189eca21dc4220ba4d993f3bb4e55024dbd4&",
+        "imgans": "https://cdn.discordapp.com/attachments/1219205914926645308/1219206125057216614/24.png?ex=660a752f&is=65f8002f&hm=5a488cd7687145933b24b6d31c3072499a71dead714bbe3bf15a49fa3f9876eb&",
+        "textans": "MERLIN"
+    },
+    {
+        "id": 25,
+        "imgques": "https://cdn.discordapp.com/attachments/1219205914926645308/1219208575675535370/pxArt_23.png?ex=660a7778&is=65f80278&hm=f6cb98940d5037b3d6ada145fc9429a18bf9c7fb00deea69b12d1a825a57790e&",
+        "imgans": "https://cdn.discordapp.com/attachments/1219205914926645308/1219206126332284929/25.png?ex=660a7530&is=65f80030&hm=0a86706c5298ecf7994f1db9f4755cda300ba6ad173680aa7ee2d56c7a7c3924&",
+        "textans": "ELDEN"
+    },
+    {
+        "id": 26,
+        "imgques": "https://cdn.discordapp.com/attachments/1219205914926645308/1219208575927324682/pxArt_24.png?ex=660a7778&is=65f80278&hm=2c78786ec3b3073bd80f62c858c0fd9dbd4c52d4e4306c05c94aae5862f8eed8&",
+        "imgans": "https://cdn.discordapp.com/attachments/1219205914926645308/1219206126055329832/26.png?ex=660a7530&is=65f80030&hm=d778402501cbbc7005495da1e4c618511e46730cd965b50fbe1ff53308995390&",
+        "textans": "CAIN"
+    },
+    {
+        "id": 27,
+        "imgques": "https://cdn.discordapp.com/attachments/1219205914926645308/1219208576216600576/pxArt_25.png?ex=660a7778&is=65f80278&hm=b96dd5a5b68aa9d4bd663895650b85e13a85e2ea3f6a47975b3c86286fc36584&",
+        "imgans": "https://cdn.discordapp.com/attachments/1219205914926645308/1219206125841416202/27.png?ex=660a7530&is=65f80030&hm=43c6981aea8a7f44590a6b31a00285979c6828d9d0f8abcf1293a2b1642cada4&",
+        "textans": "DASH"
+    },
+    {
+        "id": 28,
+        "imgques": "https://cdn.discordapp.com/attachments/1219205914926645308/1219208576430772244/pxArt_26.png?ex=660a7778&is=65f80278&hm=a856f154de024947c65072d9c88a86b357160ed1b74d5a6c8884f224ee45df17&",
+        "imgans": "https://cdn.discordapp.com/attachments/1219205914926645308/1219206125589893220/28.png?ex=660a7530&is=65f80030&hm=45617b0e2237acd568442d9418b1539631eb27bdccbc04d298871218b17f2161&",
+        "textans": "DEWITT"
+    },
+    {
+        "id": 29,
+        "imgques": "https://cdn.discordapp.com/attachments/1219205914926645308/1219208576766185513/pxArt_27.png?ex=660a7778&is=65f80278&hm=124ec79c1ad75931f95204b17a74ec9263e625ea47dcdae676420bbc5e51ace0&",
+        "imgans": "https://cdn.discordapp.com/attachments/1219205914926645308/1219206125312938050/29.png?ex=660a7530&is=65f80030&hm=bbfee4cb0801920ccb81c528d5da7cc3f97fd504170813bebe5200115465b7a1&",
+        "textans": "CLARISSA"
+    },
+    {
+        "id": 30,
+        "imgques": "https://cdn.discordapp.com/attachments/1219205914926645308/1219208575411425290/pxArt_28.png?ex=660a7778&is=65f80278&hm=a7d5ed99ef1413f7616b38a01e73b09ee1541953dc8f0850391243f80287fcec&",
+        "imgans": "https://cdn.discordapp.com/attachments/1219205914926645308/1219206075727872000/30.png?ex=660a7524&is=65f80024&hm=2a8c7a9fc09469817c821b64857e7fbbab3198e4a8319624f7de68a2a462323d&",
+        "textans": "JOAN OF ARC"
+    },
+    {
+        "id": 31,
+        "imgques": "https://cdn.discordapp.com/attachments/1219205914926645308/1219208632034656328/pxArt_29.png?ex=660a7785&is=65f80285&hm=0956a84ab6b23bf6145fda659ed248da62eacd56b7e1ae161f1900658d49723c&",
+        "imgans": "https://cdn.discordapp.com/attachments/1219205914926645308/1219206077019848784/31.png?ex=660a7524&is=65f80024&hm=a2dde0fcb0779b31caa7cbbc9e871c752cb45741a7054c501853758dc5331222&",
+        "textans": "ROLAND"
+    },
+    {
+        "id": 32,
+        "imgques": "https://cdn.discordapp.com/attachments/1219205914926645308/1219208632378462229/pxArt_30.png?ex=660a7785&is=65f80285&hm=46ce491ea318b35be15d64a3a84226dfb6fbfdf1a84bc4f2e27f3ee714876dfc&",
+        "imgans": "https://cdn.discordapp.com/attachments/1219205914926645308/1219206076751155260/32.png?ex=660a7524&is=65f80024&hm=f868e1748f5bd0475cffd4f29f2cffc91d71459666a6a1c2b0ad6406ce030baf&",
+        "textans": "NERO"
+    },
+    {
+        "id": 33,
+        "imgques": "https://cdn.discordapp.com/attachments/1219205914926645308/1219208632650956830/pxArt_31.png?ex=660a7785&is=65f80285&hm=85ba427990134e9f329513f6c6a22a7eca2780624bbccbb6d8b7f6a02b6b176d&",
+        "imgans": "https://cdn.discordapp.com/attachments/1219205914926645308/1219206076520599603/33.png?ex=660a7524&is=65f80024&hm=575c7b9dcb521fef072b2c56df406b903b4aab705299429f3dfbba8c2f7c4be2&",
+        "textans": "OPHELIA"
+    },
+    {
+        "id": 34,
+        "imgques": "https://cdn.discordapp.com/attachments/1219205914926645308/1219208632936431616/pxArt_32.png?ex=660a7785&is=65f80285&hm=0c3d30e7baf792f47a645c6c34e9670fa21a2e7302501776339f6d762a09a228&",
+        "imgans": "https://cdn.discordapp.com/attachments/1219205914926645308/1219206076269068328/34.png?ex=660a7524&is=65f80024&hm=39cef35b924c127377d5c9d16a1258e0506fb752da5da3ccbefc44840275e2aa&",
+        "textans": "LILITH"
+    },
+    {
+        "id": 35,
+        "imgques": "https://cdn.discordapp.com/attachments/1219205914926645308/1219208633229905920/pxArt_33.png?ex=660a7785&is=65f80285&hm=e4cb0298453af9d2103c193668582f635a984822c5c08ecd3931d083ec2525f5&",
+        "imgans": "https://cdn.discordapp.com/attachments/1219205914926645308/1219206076017152010/35.png?ex=660a7524&is=65f80024&hm=d33e197e7f84474850f2d8900a6c35f7654da657f6d3b20299154051c47b4b9b&",
+        "textans": "MIKHAIL"
+    },
+    {
+        "id": 36,
+        "imgques": "https://cdn.discordapp.com/attachments/1219205914926645308/1219208631556243496/pxArt_34.png?ex=660a7785&is=65f80285&hm=cc0b56e6b47dc0527f3f89ceafde9de75d8a64a631b5dec20057cea2192d3f8d&",
+        "imgans": "https://cdn.discordapp.com/attachments/1219205914926645308/1219206008757424128/36.png?ex=660a7514&is=65f80014&hm=d27ac0d029436df9c89905994a6e1540c757a21906f7a91ba9f3fa40c55f081f&",
+        "textans": "KING ARTHUR"
+    },
+    {
+        "id": 37,
+        "imgques": "https://cdn.discordapp.com/attachments/1219205914926645308/1219208671477760041/pxArt_35.png?ex=660a778f&is=65f8028f&hm=d569b0f7697f07799e9085754cf1ec367364a76e9fa31571decb6a79664bf7c8&",
+        "imgans": "https://cdn.discordapp.com/attachments/1219205914926645308/1219206010011521034/37.png?ex=660a7514&is=65f80014&hm=89c636d3f7dd67d1ebc15ad656365d7fa6a5e2099757fa32da3e1d89151053bf&",
+        "textans": "ABEL"
+    },
+    {
+        "id": 38,
+        "imgques": "https://cdn.discordapp.com/attachments/1219205914926645308/1219208671683416084/pxArt_36.png?ex=660a778f&is=65f8028f&hm=04b6fd2abd3bc96f453a68bf69e655272ccbf8fd3178d0a33228f3011d1a254f&",
+        "imgans": "https://cdn.discordapp.com/attachments/1219205914926645308/1219206009780703253/38.png?ex=660a7514&is=65f80014&hm=6d60db166c5c4172adf9e65831087f9d5874cd9f8f2e37e67ce6ebed17ed2a44&",
+        "textans": "PERCIAL"
+    },
+    {
+        "id": 39,
+        "imgques": "https://cdn.discordapp.com/attachments/1219205914926645308/1219208671272243240/pxArt_38.png?ex=660a778f&is=65f8028f&hm=248a0948a7854a9db62ef5d66d1d4772ec18b2586561f9819bb1dd405df73e5c&",
+        "imgans": "https://cdn.discordapp.com/attachments/1219205914926645308/1219206009294295070/40.png?ex=660a7514&is=65f80014&hm=d11879b5a1231b3fe07a8eb800e72a99a932dc6575a7d981039f906cd89ed4fa&",
+        "textans": "TITOR"
+    },
+    {
+        "id": 40,
+        "imgques": "https://cdn.discordapp.com/attachments/1219205914926645308/1219208671930748988/pxArt_37.png?ex=660a778f&is=65f8028f&hm=3cc3c9563418e9a616448efe8b452f687424ab219e2466089248e9e5b6a5ae91&",
+        "imgans": "https://cdn.discordapp.com/attachments/1219205914926645308/1219206009545949194/39.png?ex=660a7514&is=65f80014&hm=9baa6208b62f4d1acc9cd37e918b50599c216c9cbb62b2ec69a23574cf4170be&",
+        "textans": "HARROW"
+    }
+]
