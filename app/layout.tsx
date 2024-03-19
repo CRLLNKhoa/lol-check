@@ -3,6 +3,8 @@ import "./globals.css";
 import { Inter as FontSans } from "next/font/google";
 import { cn } from "@/lib/utils";
 import Hearder from "@/components/hearder";
+import 'react-toastify/dist/ReactToastify.css';
+import { ToastContainer } from 'react-toastify';
 
 const fontSans = FontSans({
   subsets: ["latin"],
@@ -29,6 +31,7 @@ export default function RootLayout({
       >
         <Hearder />
         <div className="container max-w-lg">{children}</div>
+        <ToastContainer />
       </body>
     </html>
   );
