@@ -42,7 +42,7 @@ export default function BXH() {
         ) : (
           <div className="grid gap-2 py-4">
             {(BXH as any).map((item: any, index: number) => (
-              <div className="flex gap-4 items-center select-none">
+              <div key={index} className="flex gap-4 items-center select-none">
                 <b>{index + 1}.</b>
                 <p className="line-clamp-1 flex-1">
                   {item.username}
