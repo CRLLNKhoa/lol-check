@@ -42,12 +42,9 @@ export default function GameOver(props: { score: number; chart: string[] }) {
             </div>
           </div>
           <div className="flex items-center justify-between gap-4 mt-4">
-            <Button onClick={() => router.push("/")} size="sm">
+            <Button variant={"outline"} onClick={() => router.push("/")} size="sm">
               <GoHomeFill className="w-4 h-4 mr-2" />
               Home
-            </Button>
-            <Button size="sm" className="ml-auto bg-sky-500 hover:bg-sky-600">
-              Share <FaShareAlt className="w-4 h-4 ml-2" />
             </Button>
             <Button onClick={handleNewGame} className="bg-green-500 hover:bg-green-600" size="sm">
               New Game <MdAutorenew className="w-6 h-6 ml-2" />

@@ -1,33 +1,48 @@
 [
+    {"id": 1, "textans": "TRISTAN", "imgques": "/dbg/ques/1.png"},
+    {"id": 2, "textans": "JOB STORMBORN", "imgques": "/dbg/ques/2.png"},
+    {"id": 3, "textans": "GWEN", "imgques": "/dbg/ques/3.png"},
+    {"id": 4, "textans": "SAUL", "imgques": "/dbg/ques/4.png"},
+    {"id": 5, "textans": "SOULBRINGER HANK", "imgques": "/dbg/ques/5.png"},
+    {"id": 6, "textans": "SIEGFRIED", "imgques": "/dbg/ques/6.png"},
+    {"id": 7, "textans": "ARTHUR", "imgques": "/dbg/ques/7.png"},
+    {"id": 8, "textans": "CUSACK", "imgques": "/dbg/ques/8.png"},
+    {"id": 9, "textans": "CHANDLER", "imgques": "/dbg/ques/9.png"},
+    {"id": 10, "textans": "GREG", "imgques": "/dbg/ques/10.png"},
+    {"id": 11, "textans": "PIKE", "imgques": "/dbg/ques/11.png"},
+    {"id": 12, "textans": "CHERRY BLOSSOM", "imgques": "/dbg/ques/12.png"},
+    {"id": 13, "textans": "GRIFLET", "imgques": "/dbg/ques/13.png"},
+    {"id": 14, "textans": "MAXIMUS", "imgques": "/dbg/ques/14.png"},
+    {"id": 15, "textans": "GRAP", "imgques": "/dbg/ques/15.png"},
+    {"id": 16, "textans": "ELAINE", "imgques": "/dbg/ques/16.png"},
+    {"id": 17, "textans": "ELEANOR", "imgques": "/dbg/ques/17.png"},
+    {"id": 18, "textans": "ZARE", "imgques": "/dbg/ques/18.png"},
+    {"id": 19, "textans": "ESTHER", "imgques": "/dbg/ques/19.png"},
+    {"id": 20, "textans": "ORSTED", "imgques": "/dbg/ques/20.png"},
+    {"id": 21, "textans": "DARK MERLIN", "imgques": "/dbg/ques/21.png"},
+    {"id": 22, "textans": "LUNA", "imgques": "/dbg/ques/22.png"},
+    {"id": 23, "textans": "LILIBETH", "imgques": "/dbg/ques/23.png"},
+    {"id": 24, "textans": "MERLIN", "imgques": "/dbg/ques/24.png"},
+    {"id": 25, "textans": "OPHELIA", "imgques": "/dbg/ques/25.png"},
+    {"id": 26, "textans": "LILITH", "imgques": "/dbg/ques/26.png"},
+    {"id": 27, "textans": "MIKHAIL", "imgques": "/dbg/ques/27.png"},
+    {"id": 28, "textans": "KING ARTHUR", "imgques": "/dbg/ques/28.png"},
+    {"id": 29, "textans": "ABEL", "imgques": "/dbg/ques/29.png"},
+    {"id": 30, "textans": "PERCIVAL", "imgques": "/dbg/ques/30.png"},
+    {"id": 31, "textans": "HARROW", "imgques": "/dbg/ques/31.png"},
+    {"id": 32, "textans": "TITOR", "imgques": "/dbg/ques/32.png"},
+    {"id": 33, "textans": "ELDEN", "imgques": "/dbg/ques/33.png"},
+    {"id": 34, "textans": "CAIN", "imgques": "/dbg/ques/34.png"},
+    {"id": 35, "textans": "DASH", "imgques": "/dbg/ques/35.png"},
+    {"id": 36, "textans": "DEWITT", "imgques": "/dbg/ques/36.png"},
+    {"id": 37, "textans": "CLARISSA", "imgques": "/dbg/ques/37.png"},
+    {"id": 38, "textans": "JOAN OF ARC", "imgques": "/dbg/ques/38.png"},
+    {"id": 39, "textans": "ROLAND", "imgques": "/dbg/ques/39.png"},
+    {"id": 40, "textans": "NERO", "imgques": "/dbg/ques/40.png"},
+    {"id": 41, "textans": "JOB", "imgques": "/dbg/ques/41.png"},
+    {"id": 42, "textans": "HANK", "imgques": "/dbg/ques/42.png"},
+    {"id": 43, "textans": "CHERRY", "imgques": "/dbg/ques/43.png"},
+    {"id": 44, "textans": "PAUL", "imgques": "/dbg/ques/44.png"},
+    {"id": 45, "textans": "FRED", "imgques": "/dbg/ques/45.png"}
+  ]
   
-    {
-        "id": 36,
-        "imgques": "https://cdn.discordapp.com/attachments/1219205914926645308/1219208631556243496/pxArt_34.png?ex=660a7785&is=65f80285&hm=cc0b56e6b47dc0527f3f89ceafde9de75d8a64a631b5dec20057cea2192d3f8d&",
-        "imgans": "https://cdn.discordapp.com/attachments/1219205914926645308/1219206008757424128/36.png?ex=660a7514&is=65f80014&hm=d27ac0d029436df9c89905994a6e1540c757a21906f7a91ba9f3fa40c55f081f&",
-        "textans": "KING ARTHUR"
-    },
-    {
-        "id": 37,
-        "imgques": "https://cdn.discordapp.com/attachments/1219205914926645308/1219208671477760041/pxArt_35.png?ex=660a778f&is=65f8028f&hm=d569b0f7697f07799e9085754cf1ec367364a76e9fa31571decb6a79664bf7c8&",
-        "imgans": "https://cdn.discordapp.com/attachments/1219205914926645308/1219206010011521034/37.png?ex=660a7514&is=65f80014&hm=89c636d3f7dd67d1ebc15ad656365d7fa6a5e2099757fa32da3e1d89151053bf&",
-        "textans": "ABEL"
-    },
-    {
-        "id": 38,
-        "imgques": "https://cdn.discordapp.com/attachments/1219205914926645308/1219208671683416084/pxArt_36.png?ex=660a778f&is=65f8028f&hm=04b6fd2abd3bc96f453a68bf69e655272ccbf8fd3178d0a33228f3011d1a254f&",
-        "imgans": "https://cdn.discordapp.com/attachments/1219205914926645308/1219206009780703253/38.png?ex=660a7514&is=65f80014&hm=6d60db166c5c4172adf9e65831087f9d5874cd9f8f2e37e67ce6ebed17ed2a44&",
-        "textans": "PERCIVAL"
-    },
-    {
-        "id": 39,
-        "imgques": "https://cdn.discordapp.com/attachments/1219205914926645308/1219208671272243240/pxArt_38.png?ex=660a778f&is=65f8028f&hm=248a0948a7854a9db62ef5d66d1d4772ec18b2586561f9819bb1dd405df73e5c&",
-        "imgans": "https://cdn.discordapp.com/attachments/1219205914926645308/1219206009294295070/40.png?ex=660a7514&is=65f80014&hm=d11879b5a1231b3fe07a8eb800e72a99a932dc6575a7d981039f906cd89ed4fa&",
-        "textans": "TITOR"
-    },
-    {
-        "id": 40,
-        "imgques": "https://cdn.discordapp.com/attachments/1219205914926645308/1219208671930748988/pxArt_37.png?ex=660a778f&is=65f8028f&hm=3cc3c9563418e9a616448efe8b452f687424ab219e2466089248e9e5b6a5ae91&",
-        "imgans": "https://cdn.discordapp.com/attachments/1219205914926645308/1219206009545949194/39.png?ex=660a7514&is=65f80014&hm=9baa6208b62f4d1acc9cd37e918b50599c216c9cbb62b2ec69a23574cf4170be&",
-        "textans": "HARROW"
-    }
-]

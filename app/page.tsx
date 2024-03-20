@@ -5,31 +5,31 @@ export default function Home() {
   return (
     <main className="flex flex-col py-4 gap-6">
       <ItemMenu
-        title="Liên Minh Huyền Thoại"
+        title="Liên Minh Huyền Thoại (Đang phát triển)"
         icon="/menu-icon-1.png"
         children={[
-          { title: "Đoán ảnh đại diện anh hùng", icon: "😎", link: "gg" },
-          { title: "Đoán trang phục", icon: "🎀", link: "gg" },
-          { title: "Đoán anh hùng bằng câu nói", icon: "🔊", link: "gg" },
+          { title: "Đoán ảnh đại diện anh hùng", icon: "😎", link: "/updating" },
+          { title: "Đoán trang phục", icon: "🎀", link: "/updating" },
+          { title: "Đoán anh hùng bằng câu nói", icon: "🔊", link: "/updating" },
         ]}
       />
       <ItemMenu
-        title="Thử tài âm nhạc"
+        title="Thử tài âm nhạc (Đang phát triển)"
         icon="/menu-icon-2.png"
-        children={[{ title: "Nghe giai điệu đoán bài hát", icon: "🎹", link: "gg" }]}
+        children={[{ title: "Nghe giai điệu đoán bài hát", icon: "🎹", link: "/updating" }]}
         right
       />
          <ItemMenu
         title="Days Bygone"
         icon="/Dino.png"
         children={[
-          { title: "Đoán anh hùng", icon: "🥊", link: "gg" },
+          { title: "Đoán anh hùng", icon: "🥊", link: "/dbg" },
         ]}
       />
       <ItemMenu
-        title="Vua trò chơi"
+        title="Vua trò chơi (Đang phát triển)"
         icon="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Video-Game-Controller-Icon-D-Edit.svg/1200px-Video-Game-Controller-Icon-D-Edit.svg.png"
-        children={[{ title: "Đoán trò chơi qua hình ảnh", icon: "🎮", link: "gg" }]}
+        children={[{ title: "Đoán trò chơi qua hình ảnh", icon: "🎮", link: "/updating" }]}
         right
       />
     </main>
@@ -80,7 +80,7 @@ function ItemMenu(_props: TItemMenu) {
         </div>
         <div className="border-l border-dashed border-black flex flex-col items-start ml-10 gap-2 pt-2 relative">
           {_props.children?.map((item) => (
-            <div
+            <Link href={item.link}
               key={item.link}
               className="flex items-center cursor-pointer group relative overflow-hidden pr-2"
             >
@@ -88,7 +88,7 @@ function ItemMenu(_props: TItemMenu) {
               <h1 className="mr-2">{item.icon}</h1>
               <h2>{item.title}</h2>
               <span className="absolute bg-sky-500/20 group-hover:top-0 top-8 bottom-0 -z-10 left-4 w-full transition-all"></span>
-            </div>
+            </Link>
           ))}
           <div className="size-[12px] bg-white absolute -bottom-[1px] -left-2"></div>
         </div>

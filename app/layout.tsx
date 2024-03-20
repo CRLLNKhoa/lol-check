@@ -5,6 +5,7 @@ import { cn } from "@/lib/utils";
 import Hearder from "@/components/hearder";
 import "react-toastify/dist/ReactToastify.css";
 import { ToastContainer } from "react-toastify";
+import { ThemeProvider } from "@/components/theme-provider";
 
 const fontSans = FontSans({
   subsets: ["latin"],
@@ -46,9 +47,16 @@ export default function RootLayout({
           fontSans.variable
         )}
       >
-        <Hearder />
-        <div className="container max-w-lg">{children}</div>
-        <ToastContainer />
+        <ThemeProvider
+          attribute="class"
+          defaultTheme="light"
+          enableSystem
+          disableTransitionOnChange
+        >
+          <Hearder />
+          <div className="container max-w-lg">{children}</div>
+          <ToastContainer />
+        </ThemeProvider>
       </body>
     </html>
   );

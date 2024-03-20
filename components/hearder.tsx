@@ -4,8 +4,10 @@ import { MdOutlineWbSunny } from "react-icons/md";
 import { LuMoon } from "react-icons/lu";
 import { TbSquareRoundedLetterG } from "react-icons/tb";
 import SupportDialog from "./supportDialog";
+import { useTheme } from "next-themes"
 
 export default function Hearder() {
+  // const { setTheme } = useTheme()
   return (
     <header
       className="sticky top-0 z-50 w-full border-b border-border/40 bg-background/95
@@ -17,12 +19,12 @@ export default function Hearder() {
       </h1>
       <div className="flex items-center">
         <SupportDialog />
-        <Button variant="ghost" size={"icon"}>
+        {/* <Button onClick={() => setTheme("dark")} variant="ghost" size={"icon"}>
           <LuMoon className="w-5 h-5" />
         </Button>
-        <Button variant="ghost" size={"icon"}>
+        <Button onClick={() => setTheme("light")} variant="ghost" size={"icon"}>
           <MdOutlineWbSunny className="w-5 h-5" />
-        </Button>
+        </Button> */}
       </div>
     </header>
   );
