@@ -16,10 +16,11 @@ export default function CurrenGame() {
   const score = useDBGStore((state: any) => state.score);
   const life = useDBGStore((state: any) => state.life);
   const i = useDBGStore((state: any) => state.i);
-  console.log(i);
   const chart = useDBGStore((state: any) => state.chart);
   const setCurrQues = useDBGStore((state: any) => state.setCurrQues);
   const setQuestions = useDBGStore((state: any) => state.setQuestions);
+  const gameStats = useDBGStore((state: any) => state.gameStats);
+  const setGameStats = useDBGStore((state: any) => state.setGameStats);
 
   useEffect(() => {
     const handleShuffle = () => {
@@ -29,6 +30,25 @@ export default function CurrenGame() {
     };
     handleShuffle()
   }, []);
+
+  useEffect(() => {
+    if(life < 0){
+      setGameStats({played: gameStats?.played + 1, win: gameStats?.win, lose: gameStats?.lose + 1})
+    }
+  }, [life])
+
+  useEffect(() => {
+    if(question.length === i ){
+      setGameStats({played: gameStats?.played + 1, win: gameStats?.win + 1, lose: gameStats?.lose})
+    }
+  }, [i])
+  
+  useEffect(() => {
+   if(life < 0 || i===question.length){
+    localStorage.setItem('gamedle-data-dbg', JSON.stringify(gameStats));
+   }
+  }, [life,i])
+  
 
   return (
     <div className="flex flex-col gap-4">

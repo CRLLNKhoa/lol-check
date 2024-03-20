@@ -19,28 +19,13 @@ export default function Howtoplay() {
       <DialogContent>
         <DialogHeader>
           <div className="flex flex-col gap-4">
-            <div className="flex flex-col">
-              <h1 className="font-bold mb-4 pb-2 border-b">Thông số của bạn</h1>
-              <div className="flex flex-wrap justify-between">
-                <div className="flex flex-col justify-center items-center">
-                  <h1 className="font-bold">2</h1>
-                  <p className="text-sm font-semibold">Đã chơi</p>
-                </div>
-                <div className="flex flex-col justify-center items-center">
-                  <h1 className="font-bold">2</h1>
-                  <p className="text-sm font-semibold">Thắng</p>
-                </div>
-                <div className="flex flex-col justify-center items-center">
-                  <h1 className="font-bold">2</h1>
-                  <p className="text-sm font-semibold">Tỉ lệ thắng %</p>
-                </div>
-                <div className="flex flex-col justify-center items-center">
-                  <h1 className="font-bold">2</h1>
-                  <p className="text-sm font-semibold">Chuỗi đúng</p>
-                </div>
-
-              </div>
-            </div>
+            <h1 className="font-bold">Hướng dẫn cơ bản</h1>
+             <ul className="text-sm list-disc ml-4">
+              <li>Bạn chỉ có thể chọn sai <b className="text-red-500">3</b> lần tối đa.</li>
+              <li>Nhập tên anh hùng rồi bấm vào nút kiểm tra.</li>
+              <li>Bấm next để tiếp tục đến câu tiếp theo</li>
+              <li>Bạn có thể bấm bỏ qua nhưng nó sẽ tính cho bạn 1 đáp án sai.</li>
+             </ul>
           </div>
         </DialogHeader>
       </DialogContent>

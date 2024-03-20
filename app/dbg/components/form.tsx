@@ -67,7 +67,7 @@ export default function Form() {
       {isClient && (
         <Popover>
           <PopoverTrigger>
-            <Button disabled={checking} className="min-w-[412px]" variant={"outline"}>
+            <Button disabled={checking} className="min-w-[320px]" variant={"outline"}>
               {searchTerm === "" ? "🔍 Nhập tên anh hùng " : searchTerm}
             </Button>
           </PopoverTrigger>

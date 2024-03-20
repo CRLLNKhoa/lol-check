@@ -12,6 +12,12 @@ export const useDBGStore = create((set) => ({
   chart: [],
   score: 0,
   isWin: true,
+  gameStats: {
+    played: 0,
+    win: 0,
+    lose: 0
+  },
+  setGameStats: (data:any) => set((state:any) => ({ gameStats: data })),
   subLife: () => set((state: { life: number }) => ({ life: state.life - 1 })),
   setCurrQues: (ques: any) =>
     set((state: { currQues: any }) => ({ currQues: ques })),
