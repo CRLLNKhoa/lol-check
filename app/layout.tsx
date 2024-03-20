@@ -3,8 +3,8 @@ import "./globals.css";
 import { Inter as FontSans } from "next/font/google";
 import { cn } from "@/lib/utils";
 import Hearder from "@/components/hearder";
-import 'react-toastify/dist/ReactToastify.css';
-import { ToastContainer } from 'react-toastify';
+import "react-toastify/dist/ReactToastify.css";
+import { ToastContainer } from "react-toastify";
 
 const fontSans = FontSans({
   subsets: ["latin"],
@@ -18,12 +18,19 @@ export const metadata: Metadata = {
     card: "summary_large_image",
   },
   openGraph: {
-      images: [
-        {
-          url: "/app/opengraph-image.png"
-        }
-      ]
-    }
+    title: "Gamedle - The Guess Game",
+    description: "Cùng nhau tham gia thử thách và chia sẻ kết quả với bạn bè!",
+    url: "/app/opengraph-image.png",
+    type: "article",
+    images: [
+      {
+        url: "/app/opengraph-image.png",
+        width: 1200,
+        height: 630,
+        alt: "pic seo",
+      },
+    ],
+  },
 };
 
 export default function RootLayout({
