@@ -20,7 +20,7 @@ export default function Home() {
         right
       />
          <ItemMenu
-        title="Days Bygone"
+        title="Days Bygone (Supported by Kagayaku Taiyo)"
         icon="/Dino.png"
         children={[
           { title: "Đoán anh hùng", icon: "🥊", link: "/dbg" },

@@ -27,6 +27,7 @@ export default function CurrenGame() {
       const arr = question.sort(() => Math.random() - 0.5);
       setCurrQues(arr[0]);
       setQuestions(arr);
+      console.log(arr)
     };
     handleShuffle()
   }, []);
